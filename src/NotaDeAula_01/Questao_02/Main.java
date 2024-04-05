@@ -1,4 +1,4 @@
-package Slide_01.Questao_02;
+package NotaDeAula_01.Questao_02;
 
 import java.util.Scanner;
 

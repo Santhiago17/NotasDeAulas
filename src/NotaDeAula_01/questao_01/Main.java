@@ -1,4 +1,4 @@
-package Slide_01.questao_01;
+package NotaDeAula_01.questao_01;
 
 public class Main {
     public static void main(String[] args) {
